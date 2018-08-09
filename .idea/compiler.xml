@@ -9,6 +9,7 @@
         <module name="microservice-client-feign" />
         <module name="microservice-client-one" />
         <module name="microservice-client-ribbon" />
+        <module name="microservice-client-zuul" />
         <module name="microservice-discovery-eureka" />
         <module name="SpringCloudDemo" />
       </profile>
