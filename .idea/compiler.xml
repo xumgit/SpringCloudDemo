@@ -14,9 +14,5 @@
         <module name="SpringCloudDemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="microservice-service-feign" target="1.8" />
-      <module name="service-feign" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
